@@ -1,1 +1,2 @@
-print("salam")
+print("salam") 
+print("123")
